@@ -1,0 +1,4 @@
+Bird1.png.Black
+Bird2.png.Black
+z.png.Black
+test_image.png.Black
